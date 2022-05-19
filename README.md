@@ -4,6 +4,7 @@ Brick breaker game using HTML5 canvas feature with pure Javascript thanks to thi
 
 - Playable with mouse or arrow keys
 
-CSS will be upgraded soon!
+CSS will be upgraded soon! :)
 
-[2022-04-27 16-01-40(1)](https://user-images.githubusercontent.com/97042301/169243920-81b462c0-e2c5-4f05-8a75-a8c153128f21.gif)
+
+![2022-04-27 16-01-40(1)](https://user-images.githubusercontent.com/97042301/169244024-e6789845-abb6-47ef-96b8-0d64fbff5d27.gif)
