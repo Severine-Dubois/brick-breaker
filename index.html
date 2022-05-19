@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="brick.css">
+    <title>Casse-Brique</title>
+</head>
+<body>
+    
+    <h1>Welcome to the Brick Breaker !</h1>
+
+<canvas id="myCanvas" width="480", height="320"></canvas>
+<!--The canvas element has two attributes to control the size of the element’s bitmap: width and height
+If I use a CSS propertie, it will stretch the canvas instead of make it bigger -->
+
+<div class="start-button">
+<button class="start">Wanna try ? :)</button>
+</div>
+
+<div id="game_over"class="no-display">
+    <p class="message"></p>
+    <button class="refresh-button">Try Again ?</button>
+</div>
+
+<script src="brick.js"></script>
+
+</body>
+</html>
